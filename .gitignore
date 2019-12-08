@@ -1,0 +1,8 @@
+venv
+src/db.sqlite3
+src/blog/__pycache__
+src/blog/migrations/__pycache__
+src/django_project/__pycache__
+src/media/profile_pics/*
+src/users/__pycache__
+src/users/migrations/__pycache__
